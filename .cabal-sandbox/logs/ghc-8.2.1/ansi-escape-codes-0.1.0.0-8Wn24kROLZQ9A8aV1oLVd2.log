@@ -1,0 +1,35 @@
+cabal: Entering directory '.'
+Configuring ansi-escape-codes-0.1.0.0...
+Preprocessing library for ansi-escape-codes-0.1.0.0..
+Building library for ansi-escape-codes-0.1.0.0..
+[1 of 1] Compiling AnsiEscapeCodes  ( src/AnsiEscapeCodes.hs, dist/dist-sandbox-57e7d248/build/AnsiEscapeCodes.o )
+[1 of 1] Compiling AnsiEscapeCodes  ( src/AnsiEscapeCodes.hs, dist/dist-sandbox-57e7d248/build/AnsiEscapeCodes.p_o )
+Preprocessing library for ansi-escape-codes-0.1.0.0..
+Running Haddock on library for ansi-escape-codes-0.1.0.0..
+Haddock coverage:
+   0% (  0 / 20) in 'AnsiEscapeCodes'
+  Missing documentation for:
+    Module header
+    ASCIIControlCode (src/AnsiEscapeCodes.hs:12)
+    CSIParameter (src/AnsiEscapeCodes.hs:49)
+    SelectGraphicRenditionParameter (src/AnsiEscapeCodes.hs:75)
+    ForegroundColor (src/AnsiEscapeCodes.hs:122)
+    BrightForegroundColor (src/AnsiEscapeCodes.hs:133)
+    BackgroundColor (src/AnsiEscapeCodes.hs:143)
+    BrightBackgroundColor (src/AnsiEscapeCodes.hs:154)
+    Color (src/AnsiEscapeCodes.hs:164)
+    EscapeSequence (src/AnsiEscapeCodes.hs:168)
+    EscapeSequenceEntry (src/AnsiEscapeCodes.hs:196)
+     (src/AnsiEscapeCodes.hs:201)
+     (src/AnsiEscapeCodes.hs:205)
+     (src/AnsiEscapeCodes.hs:208)
+     (src/AnsiEscapeCodes.hs:234)
+     (src/AnsiEscapeCodes.hs:267)
+     (src/AnsiEscapeCodes.hs:279)
+     (src/AnsiEscapeCodes.hs:291)
+     (src/AnsiEscapeCodes.hs:301)
+     (src/AnsiEscapeCodes.hs:311)
+Documentation created:
+dist/dist-sandbox-57e7d248/doc/html/ansi-escape-codes/index.html
+Installing library in /Users/jgesualdo/code/haskell/ansi-escape-codes/.cabal-sandbox/lib/x86_64-osx-ghc-8.2.1/ansi-escape-codes-0.1.0.0-8Wn24kROLZQ9A8aV1oLVd2
+cabal: Leaving directory '.'
