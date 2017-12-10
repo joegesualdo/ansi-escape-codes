@@ -1,4 +1,4 @@
-## ansi-escape-sequences
+## ansi-escape-codes
 > Haskell package to generate ANSI escape codes for styling strings in the terminal Edit
 
 ## Install
