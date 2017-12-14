@@ -2,8 +2,6 @@ cabal: Entering directory '.'
 Configuring ansi-escape-codes-0.1.0.0...
 Preprocessing library for ansi-escape-codes-0.1.0.0..
 Building library for ansi-escape-codes-0.1.0.0..
-[1 of 1] Compiling AnsiEscapeCodes  ( src/AnsiEscapeCodes.hs, dist/dist-sandbox-57e7d248/build/AnsiEscapeCodes.o )
-[1 of 1] Compiling AnsiEscapeCodes  ( src/AnsiEscapeCodes.hs, dist/dist-sandbox-57e7d248/build/AnsiEscapeCodes.p_o )
 Preprocessing library for ansi-escape-codes-0.1.0.0..
 Running Haddock on library for ansi-escape-codes-0.1.0.0..
 Haddock coverage:
